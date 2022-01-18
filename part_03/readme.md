@@ -2,7 +2,7 @@
 
 ## Overview
 
-Progress report (in the form of your answers to the questions below) due **EOD on Wednesday 11/10**.
+Progress report (in the form of your answers to the questions below) due **EOD on Thursday 2/10**.
 
 The finish line is in sight! You should have your data in hand and some models made. This portion of the Capstone contains two parts to help really hone your model and develop mastery over your final project.
 
