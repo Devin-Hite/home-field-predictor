@@ -77,7 +77,7 @@ You probably have work left to do, and there may be items here that you can’t 
 
 ## Necessary Deliverables / Submission
 
-Your code and technical notebook should be posted to your **personal GitHub** (not **git.generalassemb.ly**) and sent to your instructional team via Google Classroom. Please submit your link by **Friday July 23**.
+Your code and technical notebook should be posted to your **personal GitHub** (not **git.generalassemb.ly**) and sent to your instructional team via Google Classroom. Please submit your link by **Friday February 25**.
 ## Useful Resources
 
 - [How to Report Statistics to Technical Audiences](http://abacus.bates.edu/~ganderso/biology/resources/writing/HTWstats.html)
